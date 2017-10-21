@@ -1,5 +1,6 @@
-# Use OpenCV in Swift Demo
+# Use OpenCV in Swift
 ![use-opencv-in-swift](http://yangguang2009.github.io/2017/10/16/programming/use-opencv-in-swift/0.gif)
+
 This project shows how to use OpenCV in Swift. Including acquire the video capture, binary the frame data and display the result video.
 You can use the codes as a start project to build your own application with the ability to process video frames from camera.
 
